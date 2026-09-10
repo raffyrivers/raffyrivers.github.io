@@ -15,7 +15,7 @@ published: true
 
 ### Introduction:
 
-Recreational Programming is something I have started doing a for a couple years and is what truley sparked my interest in software development. 
+Recreational Programming is something I have started doing a for a couple years and is what truly sparked my interest in software development. 
 I enjoy learning new things in a variety of fields and find ways I can apply it to software development. Recreational programming has 
 helped me learn about new and interesting things, enjoy myself, and improve my skills in not just software, but other fields. The possibilities are endless, there is always a new project to do and new things to learn. 
 
@@ -29,9 +29,9 @@ skills will help with different goals in the future, letting them achieve these 
 ### My Experience With Recreational Programming:
 
 I have made several projects and learned about some interesting and useful programming tools. One of my programming 
-sessions had me create a simple tower defense game I called "Turret Game". I made coded in C++ using the C media
+sessions had me create a simple tower defense game I called "Turret Game". I made "Turret Game" in C++ using the C media
 library SDL. This library is heavily documented and very powerful with a wide variety of use cases. Creating this 
-let me apply the programming skills I have learned in both school and my free time. 
+allowed me to apply the programming skills I have learned in both school and on my free time. 
 
 #### More 
 
