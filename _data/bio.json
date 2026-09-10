@@ -9,11 +9,11 @@
     "location": { "address": "", "postalCode": "96706", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "raffyrivers", "url": "http://github.com/raffyrivers" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "https://linkedin.com/in/raphael-rios-2893ab2b7" }
+      { "network": "linkedin", "username": "Raphael Rios", "url": "https://linkedin.com/in/raphael-rios-2893ab2b7" }
     ]
   },
   "interests": [
-    { "name": "3D Graphics", "Systems Programming", "Algorithms" }
+    { "name": ["Computer Graphics", "Systems Programming", "Algorithms"] }
   ],
   "skills": [
     {
