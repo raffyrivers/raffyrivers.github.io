@@ -6,14 +6,14 @@
     "email": "raphael4@hawaii.edu",
     "website": "https://raffyrivers.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2028.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "96706", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "raffyrivers", "url": "http://github.com/raffyrivers" },
       { "network": "linkedin", "username": "mollymaluhia", "url": "https://linkedin.com/in/raphael-rios-2893ab2b7" }
     ]
   },
   "interests": [
-    { "name": "3D Graphics" }
+    { "name": "3D Graphics", "Systems Programming", "Algorithms" }
   ],
   "skills": [
     {
@@ -24,7 +24,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2028)",
       "studyType": "B.S.",
       "startDate": "2026-08-24",
       "endDate": "Present",
