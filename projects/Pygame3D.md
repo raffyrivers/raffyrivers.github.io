@@ -15,13 +15,13 @@ summary: "A simple tower defence game using SDL media library."
 
 Using another rendering library I have grown to like is the pygame library.
 
-This library was one of the first libraries I have every used. 
+This library was one of the first ones I have every used. 
 
-The code was later used in the Star Fleet II Deluxe Demo project I contributed to.
+The code was later used in the Star Fleet II Deluxe Demo project I helped create.
 
-This program projects 3D objects to the screen using and performs transformations on them using numpy. 
+This program projects 3D objects to the screen and performs transformations on them using numpy. 
 
-To those interested [here is the repository](https://github.com/raffyrivers/Pygame3D.git). 
+For those interested [here is the repository](https://github.com/raffyrivers/Pygame3D.git). 
 
 <p align="center">
     <img width="500px" src="../img/rotation.gif">
