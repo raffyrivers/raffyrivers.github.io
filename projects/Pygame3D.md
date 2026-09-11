@@ -24,5 +24,5 @@ This program projects 3D objects to the screen using and performs transformation
 To those interested [here is the repository](https://github.com/raffyrivers/Pygame3D.git). 
 
 <p align="center">
-    <img width="500px"src="../img/rotation.gif"></img>
+    <img width="500px" src="../img/rotation.gif"></img>
 </p>
