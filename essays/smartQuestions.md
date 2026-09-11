@@ -198,7 +198,7 @@ I have verified it against the stated examples and other valid cases but yet can
 
 This question is not to bad. However, the code the asker provides is messy and unorganized in a way that 
 even the most seasoned programmers would have trouble reading it. The question is also a too long and 
-could possibly be shortened to better get his question across. 
+could possibly be shortened to better get his question across. This question did not recive an answer.
 
 
 
