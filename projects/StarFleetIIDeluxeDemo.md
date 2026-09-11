@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/sf2.png
+image: img/resized_sf2.png
 title: "Star Fleet II Deluxe DEMO"
 date: 2025
 published: true

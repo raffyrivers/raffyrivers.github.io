@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/pygame.jpg
+image: img/resized_pygame.png
 title: "Pygame 3D"
 date: 2026
 published: true

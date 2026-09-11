@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/turretGameScreenShot.png
+image: img/resized_turretGameScreenShot.png
 title: "Turret Game"
 date: 2025
 published: true
