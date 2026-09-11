@@ -12,7 +12,7 @@ published: true
 Questions are a vital part of learning. This makes Questions super important in the world of Software 
 engineering. This may be obvious, but there are questions that can hurt a persons learning and waste 
 others time. This is why it is important to ask smart questions that are on topic, clear, thought 
-provocing, and unique.  I will be discussing some examples of "smart" questions and "not smart" questions.
+provoking, and unique.  I will be discussing some examples of "smart" questions and "not smart" questions.
 
 ### Smart Question
 
@@ -194,11 +194,12 @@ I would especially like to know whether there is anything incorrect in the imple
 I am not looking only for the standard binary-tree traversal algorithm; I am specifically trying to identify why this particular implementation could fail Logical T4 on eLab.
 
 I have verified it against the stated examples and other valid cases but yet can't solve it
+
 ***
 
-This question is not to bad. However, the code the asker provides is messy and unorganized in a way that 
+This question is not to bad. However, the code the programmer provides is messy and unorganized in a way that 
 even the most seasoned programmers would have trouble reading it. The question is also a too long and 
-could possibly be shortened to better get his question across. This question did not recive an answer.
+could possibly be shortened to better get his question across. This question did not receive an answer.
 
 
 
