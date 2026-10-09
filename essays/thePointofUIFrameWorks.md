@@ -6,6 +6,9 @@ title: "UI Frameworks Review"
 date: 2026-10-08
 published: true
 ---
+<p align="center">
+    <img  width="250px" class="rounded float-start pe-4" src="../img/UIFrameWorks.jpg">
+</p>
 
 ### Introduction 
 UI frameworks offer developers a set of tools they may use to format their web application. For instance, Bootstrap provides developers with pre written css files allowing them to format a website without ever editing a css file. Bootstrap is one of the more popular UI frameworks and there are many more available with different capabilities and use cases.
